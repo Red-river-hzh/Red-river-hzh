@@ -1,7 +1,13 @@
 ## Hi there 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;欢+迎+来+到+我+的+Github)
+
+![Red-river-hzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Red-river-hzh)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Red-river-hzh)
+
 <!--
-**Red-river-hzh/Red-river-hzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Red-river-hzh/** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
